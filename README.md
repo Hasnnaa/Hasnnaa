@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnnaa</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 
