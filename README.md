@@ -7,14 +7,15 @@ Hi I'm Hasnaa From Morocco
 Skills: C / Python / Java / JS / HTML / CSS
 
 
-<img src='https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif' alt='keyboard' align="right" height='150'>
 - 🔭 I’m currently working on C Projects 
 - 🌱 I’m currently learning Programming Languages 
 - 👯 I’m looking to collaborate on C Projects 
 - 💬 Ask me about Coding... 
 - 📫 How to reach me: Hasnaaouabrk@gmail.com 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I'm Friendly 
+- ⚡ Fun fact: I'm Friendly
+
+  <img src='https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif' alt='keyboard' align="right" height='150'>
 
 
 <h3 align="centre">Connect with me:</h3> <img src='https://i.pinimg.com/originals/77/a2/71/77a2719a5f9ade27941c879ae3c7bca9.gif' alt='follow' align="centre" height='150'>
