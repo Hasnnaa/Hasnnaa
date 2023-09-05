@@ -14,9 +14,8 @@ Skills: C / Python / Java / JS / HTML / CSS
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm Friendly 
 
-[<img src='https://i.pinimg.com/originals/77/a2/71/77a2719a5f9ade27941c879ae3c7bca9.gif' alt='follow' align="centre" height='150'>]
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <img src='https://i.pinimg.com/originals/77/a2/71/77a2719a5f9ade27941c879ae3c7bca9.gif' alt='follow' align="right" height='150'>
 <p align="centre">
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hasnnaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasnaa-ouabrk-2a852224b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/naa_77h/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasnnaa127)  
