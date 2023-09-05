@@ -6,7 +6,7 @@ Hi I'm Hasnaa From Morocco
 
 Skills: C / Python / Java / JS / HTML / CSS
 
-<img src='https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif' alt='keyboard' align="right" height='150'>
+<img src='https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif' alt='keyboard' align="centre" height='150'>
 
 
 - 🔭 I’m currently working on C Projects 
