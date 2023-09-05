@@ -12,6 +12,8 @@
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
+
+
 - 🔭 I’m currently working on C Projects 
 - 🌱 I’m currently learning Languages " C, Java, Python .... 
 - 👯 I’m looking to collaborate on C Projects 
@@ -25,6 +27,8 @@
 
 
 <img align="right" alt="follow" width="400" src="https://user-images.githubusercontent.com/57133330/188281501-2b011708-bc37-40aa-8e34-c0b41d5cc089.gif">
+
+
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hasnnaa127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasnnaa127" height="30" width="40" /></a>
@@ -33,20 +37,6 @@
  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnnaa)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasnnaa&show_icons=true&count_private=true)  
-  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hasnnaa)  
-
-
-
-
-
-
 
 
 
