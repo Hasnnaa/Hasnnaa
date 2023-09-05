@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Hasnaa
-#### Full Stack Software Engineering and Computer Science
+<h1 align="center"> Hi there 👋, my name is Hasnaa </h1>
+<h3 align="center"> Full Stack Software Engineering and Computer Science </h3>
 ![Full Stack Software Engineering and Computer Science](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)
 
 I'm Hasnaa From Morocco, and I'm a Software Engineering and Computer Science Student. 
@@ -8,7 +8,7 @@ I really enjoy learning languages like C, JS, Java, Python...
 Skills: Python / C / JS / HTML / CSS
 
 - 🔭 I’m currently working on C Projects 
-- 🌱 I’m currently learning Languages " C, Java, Python.... 
+- 🌱 I’m currently learning Languages " C, Java, Python .... 
 - 👯 I’m looking to collaborate on C Projects 
 - 💬 Ask me about coding 
 - 📫 How to reach me: hasnaaouabrk@gmail.com 
