@@ -14,8 +14,7 @@ Skills: C / Python / Java / JS / HTML / CSS
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm Friendly 
 
-<p align="right" <img src="https://i.pinimg.com/originals/77/a2/71/77a2719a5f9ade27941c879ae3c7bca9.gif" width="40" height="40"/></p> 
-
+[<img src='https://i.pinimg.com/originals/77/a2/71/77a2719a5f9ade27941c879ae3c7bca9.gif' alt='follow' align="right" height='400'>]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
