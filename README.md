@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasnnaa</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnnaa&label=Profile%20views&color=0e75b6&style=flat" alt="hasnnaa" /> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=hasnnaa&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)" alt="hasnnaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnnaa" alt="hasnnaa" /></a> </p>
 
